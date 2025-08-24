@@ -31,5 +31,7 @@ It’s designed to help with **threat detection, debugging, and exploring Window
 Simply run from a command prompt:
 
 
-## 📷 Project Structure
-![Project Structure]([https://your-image-url-here.png](https://github.com/notshivumang011/Raw-Address-Scanner/blob/main/raw%20address%20scanner.png?raw=true))
+---
+![Project Structure](https://raw.githubusercontent.com/notshivumang011/Raw-Address-Scanner/refs/heads/main/raw%20address%20scanner.png))
+
+---
